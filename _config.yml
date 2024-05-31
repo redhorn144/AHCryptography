@@ -1,6 +1,6 @@
 # Site settings
 course_name: Cryptography
-course_description: "This course covers the basics of cryptography as well some modern advanced cryptographic topics."
+course_description: "This course covers the basics of cryptography as well some modern advanced cryptographic topics. This class aims to be accessible to any student with at minimum a first course in algebra."
 course_semester: "Fall 2024"
 
 baseurl: "/AHCryptography" # the subpath of your site, e.g. /blog/
