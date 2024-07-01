@@ -4,11 +4,6 @@ title: Materials
 permalink: /materials/
 ---
 
-[comment]: <> {% include image.html url="/_images/cover2.jpg" width=175 align="right" %}
-
-
-
-
 ## Additional Course Materials
 
 
