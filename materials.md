@@ -4,17 +4,16 @@ title: Materials
 permalink: /materials/
 ---
 
-{% include image.html url="/_images/cover2.jpg" width=175 align="right" %}
+[comment]: <> {% include image.html url="/_images/cover2.jpg" width=175 align="right" %}
 
-## Book
 
-Alan Turing and Noam Chomsky: Very Famous Book
+
 
 ## Additional Course Materials
 
-* If you are not familiar with Python programming, use any online tutorial to get a handle of it.
-* [Material #1](http://www.example.com/): how a computer chess player thinks!
-* [Material #2](http://www.example.com/): how a computer chess player thinks!
-* [Material #3](http://www.example.com/): how a computer chess player thinks!
-* [Material #4](http://www.example.com/): how a computer chess player thinks!
-* [Material #5](http://www.example.com/): how a computer chess player thinks!
+
+* [Material #1](https://joyofcryptography.com/): An undergraduate level cryptography course and free textbook.
+* [Material #2](https://crypto.stanford.edu/~dabo/cryptobook/BonehShoup_0_4.pdf):A graduate level text in cryptography.
+* [Material #3](https://math.gordon.edu/ntic/ntic2023.pdf): A free (somewhat advanced) textbook on number theory.
+* [Material #4](https://www.w3schools.com/python/python_intro.asp): A pretty decent introduction to python if you are curious about it or find yourself needing more information.
+
