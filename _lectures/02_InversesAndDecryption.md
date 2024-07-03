@@ -7,5 +7,6 @@ thumbnail: /static_files/thumbnails/Inverses.png
 links: 
     - url: /static_files/presentations/InversesandDecryption.pdf
       name: notes
+hide_from_announcments: false
 ---
 

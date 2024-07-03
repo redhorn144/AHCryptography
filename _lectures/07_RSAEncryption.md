@@ -7,4 +7,5 @@ thumbnail: /static_files/thumbnails/RSA.png
 links: 
     - url: /static_files/presentations/RSAencryption.pdf
       name: notes
+hide_from_announcments: false
 ---

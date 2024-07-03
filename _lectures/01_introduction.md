@@ -7,5 +7,6 @@ thumbnail: /static_files/thumbnails/Intro.png
 links: 
     - url: /static_files/presentations/Introduction.pdf
       name: notes
+hide_from_announcments: false
 ---
 

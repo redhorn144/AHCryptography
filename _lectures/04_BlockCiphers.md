@@ -7,5 +7,6 @@ thumbnail: /static_files/thumbnails/Block.png
 links: 
     - url: /static_files/presentations/BlockCiphers.pdf
       name: notes
+hide_from_announcments: false
 ---
 

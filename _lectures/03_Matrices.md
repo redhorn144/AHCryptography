@@ -7,5 +7,6 @@ thumbnail: /static_files/thumbnails/Matrices.png
 links: 
     - url: /static_files/presentations/Matrices.pdf
       name: notes
+hide_from_announcments: false
 ---
 
