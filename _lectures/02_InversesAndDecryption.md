@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2018-09-16T8:00:00+4:30
+date: 
 title: Inverses and Decryption
 tldr: "Explore inverse functions and decrypting ciphers."
 thumbnail: /static_files/thumbnails/Inverses.png

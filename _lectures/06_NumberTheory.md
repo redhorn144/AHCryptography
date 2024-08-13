@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2018-09-16T8:00:00+4:30
+date: 
 title: Number Theory
 tldr: "Explore the mathematical field of number theory and prepare for RSA encryption."
 thumbnail: /static_files/thumbnails/NumberTheory.png
