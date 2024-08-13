@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 
+date: 2024-10-9T4:00:00+4:30
 title: RSA Encryption
 tldr: "Explore asymmetric encrption through the RSA cipher."
 thumbnail: /static_files/thumbnails/RSA.png

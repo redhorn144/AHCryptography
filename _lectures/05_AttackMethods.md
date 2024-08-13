@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 
+date: 2024-09-18T4:00:00+4:30
 title: Attack Methods
 tldr: "Learn some basic methods for breaking ciphers"
 thumbnail: /static_files/thumbnails/Attack.png

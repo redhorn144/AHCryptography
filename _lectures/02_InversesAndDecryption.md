@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 
+date: 2024-08-28T4:00:00+4:30
 title: Inverses and Decryption
 tldr: "Explore inverse functions and decrypting ciphers."
 thumbnail: /static_files/thumbnails/Inverses.png

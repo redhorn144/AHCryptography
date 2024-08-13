@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 
+date: 2024-09-11T4:00:00+4:30
 title: Block Ciphers
 tldr: "Explore Block ciphers and encrypting binary messages"
 thumbnail: /static_files/thumbnails/Block.png

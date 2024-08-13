@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2024-09-25T4:00:00+4:30
+date: 2024-10-2T4:00:00+4:30
 title: Number Theory
 tldr: "Explore the mathematical field of number theory and prepare for RSA encryption."
 thumbnail: /static_files/thumbnails/NumberTheory.png
