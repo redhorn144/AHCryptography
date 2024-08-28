@@ -7,6 +7,6 @@ pdf: /static_files/assignments/Assignment2.pdf
 #solutions: /static_files/assignments/asg_solutions.pdf
 due_event: 
     type: due
-    date: 2024-08-03T11:59:00+4:30
+    date: 2024-09-03T11:59:00+4:30
     description: 'Assignment #2 due'
 ---
