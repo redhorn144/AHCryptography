@@ -8,5 +8,5 @@ pdf: /static_files/assignments/Assignment3.pdf
 due_event: 
     type: due
     date: 2024-09-10T11:59:00+4:30
-    description: 'Assignment #2 due'
+    description: 'Assignment #3 due'
 ---
