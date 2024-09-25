@@ -5,7 +5,7 @@ title: Number Theory
 tldr: "Explore the mathematical field of number theory and prepare for RSA encryption."
 thumbnail: /static_files/thumbnails/NumberTheory.png
 links: 
-    - url: /static_files/presentations/Intro Number Theory and Proofs.pdf
+    - url: /static_files/presentations/"Intro Number Theory and Proofs.pdf"
       name: notes
 hide_from_announcments: false
 ---
