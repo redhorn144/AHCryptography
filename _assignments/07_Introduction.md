@@ -7,6 +7,6 @@ pdf: /static_files/assignments/Assignment7.pdf
 #solutions: /static_files/assignments/asg_solutions.pdf
 due_event: 
     type: due
-    date: 2024-10-015T11:59:00+4:30
+    date: 2024-10-15T11:59:00+4:30
     description: 'Assignment #7 due'
 ---
